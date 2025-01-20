@@ -1,5 +1,5 @@
 # conversao-distancia
-## Repositório do projeto base utilizado no desafio [DevOps & Cloud] (https://imersao.devopspro.com.br/evento/).
+## Repositório do projeto base utilizado no desafio [DevOps & Cloud](https://imersao.devopspro.com.br/evento/).
 
 ### Objetivo
 * Configuração do Ambiente - &#x1F5F9;
